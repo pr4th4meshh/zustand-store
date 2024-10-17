@@ -1,0 +1,73 @@
+export const PRODUCTS = [
+  {
+    id: 1,
+    name: "Stylish Sneakers",
+    description: "Comfortable and stylish sneakers for everyday wear.",
+    price: 59.99,
+    category: "Footwear",
+  },
+  {
+    id: 2,
+    name: "Classic Leather Jacket",
+    description: "A timeless leather jacket for a bold look.",
+    price: 129.99,
+    category: "Outerwear",
+  },
+  {
+    id: 3,
+    name: "Cotton T-Shirt",
+    description:
+      "Soft and breathable cotton t-shirt available in multiple colors.",
+    price: 19.99,
+    category: "Apparel",
+  },
+  {
+    id: 4,
+    name: "Wool Sweater",
+    description: "Warm and cozy wool sweater for chilly days.",
+    price: 49.99,
+    category: "Apparel",
+  },
+  {
+    id: 5,
+    name: "Sports Backpack",
+    description: "Durable backpack for sports and outdoor activities.",
+    price: 39.99,
+    category: "Accessories",
+  },
+  {
+    id: 6,
+    name: "Smartwatch",
+    description: "Feature-rich smartwatch with fitness tracking.",
+    price: 199.99,
+    category: "Electronics",
+  },
+  {
+    id: 7,
+    name: "Wireless Headphones",
+    description: "High-quality sound with noise-canceling features.",
+    price: 89.99,
+    category: "Electronics",
+  },
+  {
+    id: 8,
+    name: "Yoga Mat",
+    description: "Non-slip yoga mat for your fitness routine.",
+    price: 29.99,
+    category: "Fitness",
+  },
+  {
+    id: 9,
+    name: "Coffee Maker",
+    description: "Brew your favorite coffee with this easy-to-use machine.",
+    price: 49.99,
+    category: "Home Appliances",
+  },
+  {
+    id: 10,
+    name: "Water Bottle",
+    description: "Insulated water bottle to keep drinks hot or cold.",
+    price: 19.99,
+    category: "Accessories",
+  },
+]
